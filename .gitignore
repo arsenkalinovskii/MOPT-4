@@ -1,0 +1,6 @@
+.venv
+.idea
+*.aux
+*.log
+*.gz
+*/__pycache__/
